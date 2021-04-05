@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7ADB1780261A84DC000ED003 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ADB177F261A84DC000ED003 /* AppDelegate.swift */; };
-		7ADB1782261A84DC000ED003 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ADB1781261A84DC000ED003 /* SceneDelegate.swift */; };
 		7ADB1784261A84DC000ED003 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ADB1783261A84DC000ED003 /* ViewController.swift */; };
 		7ADB1787261A84DC000ED003 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7ADB1785261A84DC000ED003 /* Main.storyboard */; };
 		7ADB178A261A84DC000ED003 /* TxtFldAnimation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7ADB1788261A84DC000ED003 /* TxtFldAnimation.xcdatamodeld */; };
@@ -38,7 +37,6 @@
 /* Begin PBXFileReference section */
 		7ADB177C261A84DC000ED003 /* TxtFldAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TxtFldAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7ADB177F261A84DC000ED003 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7ADB1781261A84DC000ED003 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7ADB1783261A84DC000ED003 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7ADB1786261A84DC000ED003 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7ADB1789261A84DC000ED003 /* TxtFldAnimation.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TxtFldAnimation.xcdatamodel; sourceTree = "<group>"; };
@@ -102,7 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				7ADB177F261A84DC000ED003 /* AppDelegate.swift */,
-				7ADB1781261A84DC000ED003 /* SceneDelegate.swift */,
 				7ADB1783261A84DC000ED003 /* ViewController.swift */,
 				7ADB1785261A84DC000ED003 /* Main.storyboard */,
 				7ADB178B261A84E0000ED003 /* Assets.xcassets */,
@@ -264,7 +261,6 @@
 				7ADB1784261A84DC000ED003 /* ViewController.swift in Sources */,
 				7ADB1780261A84DC000ED003 /* AppDelegate.swift in Sources */,
 				7ADB178A261A84DC000ED003 /* TxtFldAnimation.xcdatamodeld in Sources */,
-				7ADB1782261A84DC000ED003 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
